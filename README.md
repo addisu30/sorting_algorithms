@@ -1,6 +1,6 @@
 # Team members
 Addisu Dabale -https://github.com/addisu30
-Yomi Ayana -https://github.com/Yom-Gese
+Yomi G Ayana -https://github.com/Yom-Gese
 
 # 0x1A. C - Sorting algorithms & Big O
 ## About
